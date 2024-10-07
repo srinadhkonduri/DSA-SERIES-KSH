@@ -2,7 +2,7 @@
 #include <climits>
 using namespace std;
 int main(){
-    // just printing the elements in the array using subarray
+    // just printing the elements in the array using sub array
     int n = 7;
     int arr[7] = {1,2,3,4,5,6,7};
     int arr2[7] = {3,-4,5,4,-1,7,-8};
