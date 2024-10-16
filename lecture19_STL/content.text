@@ -1,0 +1,20 @@
+algorithms 
+reverse
+next_permutation
+prev_permutation
+swap min max
+
+returning a max and min element in vector
+max_element(v.begin(),v.end())
+min_element(v.begin(),v.end())
+
+
+binary search
+binary_search(v.begin(),v.end(),target)
+target returns true or false
+
+
+count set bits 
+__builtin_popcount()
+__builtin_popcountl()
+__builtin_popcountll()
