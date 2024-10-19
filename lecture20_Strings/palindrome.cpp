@@ -3,7 +3,7 @@
 #include <algorithm> // for transform()
 using namespace std;
 
-bool isPalindrome(const std::string& str) {
+bool isPalindrome(const string& str) {
     int start = 0;
     int end = str.length() - 1;
 
